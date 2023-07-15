@@ -1,4 +1,4 @@
-namespace Discoteque;
+namespace Discoteque.API;
 
 public class WeatherForecast
 {
@@ -10,4 +10,3 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 }
-
